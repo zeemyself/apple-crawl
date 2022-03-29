@@ -1,0 +1,16 @@
+{
+  "name": "apple-crawl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.20",
+    "telegraf": "^3.38.0"
+  }
+}
