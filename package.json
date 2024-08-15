@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.6.0",
-    "lodash": "^4.17.20",
-    "telegraf": "^3.38.0"
+    "axios": "^1.7.4",
+    "lodash": "^4.17.21",
+    "telegraf": "^4.16.3"
   }
 }
